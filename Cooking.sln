@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooking", "Cooking\Cooking.csproj", "{0298AD62-BDE2-4E16-9D51-8F6E074ACB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingClassLibrary", "CookingClassLibrary\CookingClassLibrary.csproj", "{5D4540E7-1DD3-4AF7-BF02-177CE9110B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0298AD62-BDE2-4E16-9D51-8F6E074ACB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0298AD62-BDE2-4E16-9D51-8F6E074ACB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0298AD62-BDE2-4E16-9D51-8F6E074ACB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0298AD62-BDE2-4E16-9D51-8F6E074ACB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4540E7-1DD3-4AF7-BF02-177CE9110B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4540E7-1DD3-4AF7-BF02-177CE9110B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4540E7-1DD3-4AF7-BF02-177CE9110B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4540E7-1DD3-4AF7-BF02-177CE9110B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E770D9-21F2-43ED-B8A1-C34367B3FDA4}
+	EndGlobalSection
+EndGlobal
